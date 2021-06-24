@@ -203,6 +203,7 @@ Project Organization
 
 ## Authors
 
+* **Mirjam Bayer** - https://github.com/miriskalt
 * **Adnene Boumessouer** - https://github.com/AdneneBoumessouer
 
 ## License
